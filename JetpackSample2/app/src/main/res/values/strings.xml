@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JetpackSample2</string>
+    <string name="jetpack_compose_tutorial2_text1">All tasks completed</string>
+    <string name="jetpack_compose_tutorial2_text2">Nice work!</string>
+</resources>
